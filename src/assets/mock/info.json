@@ -1,0 +1,53 @@
+{
+  "ragioneSociale": "Studio Ariosto Fisioterapia S.r.l.",
+  "nomeCommerciale": "Studio Ariosto Fisioterapia",
+  "tagline": "Riabilitazione e prevenzione, terapie manuali avanzate",
+  "indirizzo": {
+    "via": "Via Ariosto 14",
+    "citta": "Bologna",
+    "provincia": "BO",
+    "cap": "40125",
+    "regione": "Emilia-Romagna",
+    "paese": "Italia",
+    "lat": 44.4949,
+    "lng": 11.3426
+  },
+  "contatti": {
+    "telefono": "+39 051 234 5678",
+    "whatsapp": "+393451234567",
+    "email": "info@studioariosto.it",
+    "social": {
+      "instagram": "https://instagram.com/studioariosto",
+      "facebook": "https://facebook.com/studioariosto"
+    }
+  },
+  "orari": {
+    "lunedi": "08:00 – 20:00",
+    "martedi": "08:00 – 20:00",
+    "mercoledi": "08:00 – 20:00",
+    "giovedi": "08:00 – 20:00",
+    "venerdi": "08:00 – 18:00",
+    "sabato": "09:00 – 13:00",
+    "domenica": "Chiuso"
+  },
+  "servizi": {
+    "primoAppuntamento": "Gratuito — 20 minuti di valutazione",
+    "convenzioneSSN": false,
+    "privato": true,
+    "pagamentiAccettati": ["Contanti", "Bancomat", "Carta di credito", "Bonifico"],
+    "accessibileDisabili": true,
+    "parcheggioNearby": true,
+    "wifiGratuito": true,
+    "spogliatoi": true
+  },
+  "albo": {
+    "ente": "Albo Fisioterapisti TSRM-PSTRP",
+    "regioneIscrizione": "Emilia-Romagna",
+    "partitaIva": "IT03456789012"
+  },
+  "metaSeo": {
+    "title": "Studio Ariosto Fisioterapia Bologna — Riabilitazione e Terapie Manuali",
+    "description": "Studio di fisioterapia a Bologna con fisioterapisti laureati e iscritti all'Albo. Terapie manuali, riabilitazione post-chirurgica, tecarterapia, posturologia.",
+    "keywords": ["fisioterapista Bologna", "riabilitazione Bologna", "tecarterapia", "terapie manuali", "fisioterapia posturale"]
+  }
+}

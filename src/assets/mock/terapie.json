@@ -1,0 +1,129 @@
+{
+  "categorie": [
+    { "id": "manuali", "nome": "Terapie manuali", "ordine": 1 },
+    { "id": "strumentali", "nome": "Terapie strumentali", "ordine": 2 },
+    { "id": "riabilitazione", "nome": "Riabilitazione", "ordine": 3 }
+  ],
+  "terapie": [
+    {
+      "id": 1,
+      "categoria": "manuali",
+      "nome": "Manipolazioni vertebrali",
+      "descrizione": "Tecniche di terapia manuale per colonna cervicale, dorsale e lombare. Indicata per ernie, protrusioni, cervicalgia e lombalgia acuta e cronica.",
+      "durata": 45,
+      "prezzo": 60,
+      "indicazioni": ["Cervicalgia", "Lombalgia", "Ernia del disco", "Protrusione discale"],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "categoria": "manuali",
+      "nome": "Drenaggio linfatico manuale",
+      "descrizione": "Tecnica manuale di Vodder per stimolare la circolazione linfatica. Indicata post-chirurgia, linfedema, gonfiore agli arti.",
+      "durata": 60,
+      "prezzo": 70,
+      "indicazioni": ["Linfedema", "Post-chirurgia", "Gonfiore arti", "Cellulite fibrotica"],
+      "featured": false
+    },
+    {
+      "id": 3,
+      "categoria": "manuali",
+      "nome": "Massaggio terapeutico",
+      "descrizione": "Massaggio decontratturante e terapeutico per tensioni muscolari, contratture e dolori miofasciali. Tecnica profonda su fasce e muscoli.",
+      "durata": 40,
+      "prezzo": 50,
+      "indicazioni": ["Contratture muscolari", "Dolore miofasciale", "Tensioni cervicali", "Stress"],
+      "featured": false
+    },
+    {
+      "id": 4,
+      "categoria": "manuali",
+      "nome": "Kinesiology taping",
+      "descrizione": "Applicazione di fasce elastiche funzionali per supportare muscoli e articolazioni, ridurre il dolore e favorire il recupero sportivo.",
+      "durata": 20,
+      "prezzo": 30,
+      "indicazioni": ["Sport injuries", "Distorsioni", "Supporto articolare", "Dolore muscolare"],
+      "featured": true
+    },
+    {
+      "id": 5,
+      "categoria": "strumentali",
+      "nome": "Tecarterapia (TECAR)",
+      "descrizione": "Terapia endotermica capacitiva e resistiva. Accelera la guarigione tissutale, riduce infiammazione e dolore. Ideale per tendinopatie e articolazioni.",
+      "durata": 30,
+      "prezzo": 55,
+      "indicazioni": ["Tendinopatie", "Artrosi", "Distorsioni", "Post-operatorio"],
+      "featured": true
+    },
+    {
+      "id": 6,
+      "categoria": "strumentali",
+      "nome": "Ultrasuoni terapeutici",
+      "descrizione": "Onde sonore ad alta frequenza per trattare infiammazioni, calcificazioni e fibrosi. Effetto antiflogistico, analgesico e biostimolante.",
+      "durata": 20,
+      "prezzo": 35,
+      "indicazioni": ["Calcificazioni tendinee", "Borsite", "Fibrosi", "Infiammazioni croniche"],
+      "featured": false
+    },
+    {
+      "id": 7,
+      "categoria": "strumentali",
+      "nome": "TENS (Elettrostimolazione)",
+      "descrizione": "Transcutaneous Electrical Nerve Stimulation per controllo del dolore acuto e cronico. Agisce sui meccanismi neurali di modulazione del dolore.",
+      "durata": 20,
+      "prezzo": 30,
+      "indicazioni": ["Dolore cronico", "Lombosciatalgia", "Nevralgie", "Dolore post-chirurgico"],
+      "featured": false
+    },
+    {
+      "id": 8,
+      "categoria": "strumentali",
+      "nome": "Magnetoterapia",
+      "descrizione": "Campo magnetico pulsato per stimolare la rigenerazione ossea e cartilaginea. Indicata per artrosi, fratture e osteoporosi.",
+      "durata": 30,
+      "prezzo": 35,
+      "indicazioni": ["Artrosi", "Fratture", "Osteoporosi", "Infiammazioni articolari"],
+      "featured": false
+    },
+    {
+      "id": 9,
+      "categoria": "riabilitazione",
+      "nome": "Ginnastica posturale",
+      "descrizione": "Programma personalizzato di esercizi per il riequilibrio posturale. Contrasta scoliosi, ipercifosi, iperlordosi e disfunzioni posturali.",
+      "durata": 50,
+      "prezzo": 55,
+      "indicazioni": ["Scoliosi", "Cifosi", "Mal di schiena cronico", "Disfunzioni posturali"],
+      "featured": true
+    },
+    {
+      "id": 10,
+      "categoria": "riabilitazione",
+      "nome": "Riabilitazione post-chirurgica",
+      "descrizione": "Programma riabilitativo specializzato dopo interventi ortopedici: protesi anca/ginocchio, legamento crociato, spalla. Protocolli EBM aggiornati.",
+      "durata": 60,
+      "prezzo": 70,
+      "indicazioni": ["Protesi anca", "Protesi ginocchio", "LCA", "Intervento spalla"],
+      "featured": true
+    },
+    {
+      "id": 11,
+      "categoria": "riabilitazione",
+      "nome": "Riabilitazione sportiva",
+      "descrizione": "Percorso di recupero funzionale per atleti dopo infortuni muscolari, articolari e tendinei. Rientro sicuro e progressivo allo sport.",
+      "durata": 60,
+      "prezzo": 75,
+      "indicazioni": ["Strappi muscolari", "Distorsioni caviglia", "Tendinopatie", "Sindrome da sovraccarico"],
+      "featured": false
+    },
+    {
+      "id": 12,
+      "categoria": "riabilitazione",
+      "nome": "Valutazione posturale",
+      "descrizione": "Analisi computerizzata della postura con esame baropodometrico e stabilometrico. Prima visita di valutazione inclusa nel referto scritto.",
+      "durata": 60,
+      "prezzo": 90,
+      "indicazioni": ["Prima visita", "Scoliosi", "Piede piatto/cavo", "Dolori vertebrali recidivanti"],
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Lo studio è convenzionato con il Servizio Sanitario Nazionale (SSN)?",
+      "risposta": "No, lo Studio Ariosto opera esclusivamente in regime privato. Questo ci permette di garantire tempi di attesa brevi (generalmente entro 48 ore) e sedute individuali senza condivisione di slot. Le nostre prestazioni sono deducibili fiscalmente al 19% come spese mediche, previa presentazione di fattura con codice fiscale."
+    },
+    {
+      "domanda": "È necessaria la prescrizione medica per iniziare la fisioterapia?",
+      "risposta": "Per il regime privato non è obbligatoria una prescrizione medica: il fisioterapista è un professionista sanitario autonomo che può valutare e trattare direttamente il paziente. Tuttavia, se disponi di esami strumentali (RMN, radiografie, ecografia) o di una diagnosi del medico, è utile portarli al primo appuntamento per una valutazione più accurata."
+    },
+    {
+      "domanda": "Come funziona il primo appuntamento?",
+      "risposta": "Il primo appuntamento è gratuito e dura circa 20 minuti. Il fisioterapista raccoglie la storia clinica, valuta il movimento e le problematiche specifiche e propone un piano di trattamento personalizzato con il numero indicativo di sedute, la frequenza consigliata e il preventivo di costo. Non siete obbligati a procedere."
+    },
+    {
+      "domanda": "Fate fisioterapia per sportivi e atleti?",
+      "risposta": "Sì, la riabilitazione sportiva è una delle nostre specializzazioni principali. La Dott.ssa Ferretti ha esperienza pluriennale con atleti di livello agonistico e amatoriale. Gestiamo strappi muscolari, distorsioni, tendinopatie da sovraccarico e programmi di ritorno allo sport dopo infortuni, con protocolli basati su evidenze scientifiche aggiornate."
+    },
+    {
+      "domanda": "Siete attrezzati per pazienti anziani o con difficoltà motorie?",
+      "risposta": "Certamente. Lo studio è al piano terra, privo di barriere architettoniche e dotato di accesso per sedia a rotelle. Trattiamo regolarmente pazienti anziani per riabilitazione post-frattura, artrosi, equilibrio e prevenzione delle cadute. Proponiamo anche la ginnastica posturale adattata per pazienti con mobilità ridotta."
+    },
+    {
+      "domanda": "Quante sedute sono generalmente necessarie per un percorso?",
+      "risposta": "Il numero di sedute dipende dalla condizione specifica: problematiche acute (distorsione, contrattura) si risolvono tipicamente in 4-8 sedute; condizioni croniche (artrosi, ernia) richiedono 10-15 sedute con sessioni di mantenimento periodiche; la riabilitazione post-chirurgica segue protocolli di 20-30 sedute distribuite in 2-3 mesi. Il piano viene rivalutato a ogni seduta."
+    },
+    {
+      "domanda": "Cosa devo portare al primo appuntamento?",
+      "risposta": "Porta con te: qualsiasi esame strumentale recente (RMN, TAC, ecografia, radiografie), eventuali referti medici precedenti relativi al problema, l'elenco di farmaci assunti, abbigliamento comodo e un indumento intimo di ricambio se il trattamento coinvolge la schiena o gli arti inferiori. Il consenso al trattamento dei dati personali sanitari (Art. 9 GDPR) viene firmato alla prima seduta."
+    },
+    {
+      "domanda": "Come vengono trattati i miei dati sanitari? (GDPR Art. 9)",
+      "risposta": "I dati sanitari rientrano nelle categorie particolari ai sensi dell'Art. 9 GDPR e vengono trattati con le massime garanzie: raccolta solo con consenso esplicito scritto, conservazione in fascicolo elettronico cifrato (AES-256), accesso limitato ai soli fisioterapisti incaricati del trattamento, conservazione per 10 anni secondo obbligo normativo sanitario e cancellazione su richiesta al termine del periodo obbligatorio. Non cediamo dati a terzi a fini commerciali."
+    }
+  ]
+}

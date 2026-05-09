@@ -1,0 +1,34 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Dott. Marco Ariosto",
+      "ruolo": "Fisioterapista fondatore",
+      "bio": "Laureato in Fisioterapia presso l'Università di Bologna (2005). Master in Fisioterapia Muscoloscheletrica (2008). Iscritto all'Albo TSRM-PSTRP BO n. 1234. Specializzato in terapia manuale ortopedica e tecniche di McKenzie.",
+      "anniEsperienza": 19,
+      "specialita": ["Terapia manuale", "McKenzie", "Colonna vertebrale", "Tecniche fasciali"],
+      "alboNumero": "BO-1234",
+      "laurea": "Università di Bologna"
+    },
+    {
+      "id": 2,
+      "nome": "Dott.ssa Chiara Ferretti",
+      "ruolo": "Fisioterapista specialista riabilitazione sportiva",
+      "bio": "Laurea magistrale in Scienze Riabilitative (2012, Bologna). Master in Fisioterapia Sportiva OMT Italy (2014). Fisioterapista della Nazionale Giovanile di Nuoto 2015-2018. Iscritto all'Albo TSRM-PSTRP BO n. 2156.",
+      "anniEsperienza": 12,
+      "specialita": ["Riabilitazione sportiva", "Kinesiology taping", "Prevenzione infortuni", "Ecografia muscoloscheletrica"],
+      "alboNumero": "BO-2156",
+      "laurea": "Università di Bologna"
+    },
+    {
+      "id": 3,
+      "nome": "Dott. Luca Zanetti",
+      "ruolo": "Fisioterapista specialista tecnologie riabilitative",
+      "bio": "Laureato in Fisioterapia presso l'Università di Ferrara (2015). Certificato in Tecarterapia e Tecar Avanzata (2017). Specializzazione in drenaggio linfatico Vodder (2019). Iscritto all'Albo TSRM-PSTRP BO n. 3089.",
+      "anniEsperienza": 9,
+      "specialita": ["Tecarterapia", "Drenaggio linfatico", "Ultrasuoni", "Magnetoterapia"],
+      "alboNumero": "BO-3089",
+      "laurea": "Università di Ferrara"
+    }
+  ]
+}

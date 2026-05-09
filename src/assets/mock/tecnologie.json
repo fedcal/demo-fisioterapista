@@ -1,0 +1,76 @@
+{
+  "tecnologie": [
+    {
+      "id": 1,
+      "nome": "Tecar Winback 3.0",
+      "categoria": "Elettroterapia",
+      "descrizione": "Dispositivo di terza generazione per tecarterapia capacitiva e resistiva. Potenza fino a 300W, frequenza 448kHz. Trattamento rapido di infiammazioni, tendinopatie e recupero post-traumatico.",
+      "indicazioni": ["Tendinopatie", "Artrosi", "Infiammazioni", "Post-chirurgia"],
+      "certificazioni": ["CE Medico Classe IIa", "ISO 13485"],
+      "annoAcquisto": 2022
+    },
+    {
+      "id": 2,
+      "nome": "Ultrasuoni Chattanooga Intelect",
+      "categoria": "Elettroterapia",
+      "descrizione": "Elettromedicale a ultrasuoni 1MHz e 3MHz con sonde intercambiabili. Display digitale per impostazione precisa di intensità, frequenza e tempo di trattamento.",
+      "indicazioni": ["Calcificazioni", "Borsite", "Cicatrici fibrotiche", "Epicondilite"],
+      "certificazioni": ["CE Medico Classe IIa"],
+      "annoAcquisto": 2020
+    },
+    {
+      "id": 3,
+      "nome": "TENS/EMS Compex SP 8.0",
+      "categoria": "Elettroterapia",
+      "descrizione": "Elettrostimolatore professionale combinato TENS e EMS. 16 programmi di stimolazione muscolare e analgesica. Utilizzato sia per il controllo del dolore sia per il rinforzo muscolare in riabilitazione.",
+      "indicazioni": ["Dolore cronico", "Riabilitazione muscolare", "Allenamento isometrico", "Neurologia"],
+      "certificazioni": ["CE Medico Classe IIa", "FCC"],
+      "annoAcquisto": 2021
+    },
+    {
+      "id": 4,
+      "nome": "Magnetoterapia Globus Magnum XL",
+      "categoria": "Fisica",
+      "descrizione": "Sistema di magnetoterapia a bassa frequenza con campo magnetico pulsato fino a 60 Gauss. 20 programmi preimpostati per trattamento di fratture, artrosi e disfunzioni articolari.",
+      "indicazioni": ["Fratture", "Artrosi", "Osteoporosi", "Rigenerazione cartilaginea"],
+      "certificazioni": ["CE Medico Classe IIa"],
+      "annoAcquisto": 2019
+    },
+    {
+      "id": 5,
+      "nome": "Baropodometro FreeMed Sensor Medica",
+      "categoria": "Diagnostica",
+      "descrizione": "Piattaforma baropodometrica dinamica e statica per analisi del cammino e della postura. Referto automatico con mappa pressoria plantare, baricentro e asimmetrie del passo.",
+      "indicazioni": ["Valutazione posturale", "Piede piatto/cavo", "Scoliosi", "Analisi del passo"],
+      "certificazioni": ["CE Medico Classe I", "ISO 9001"],
+      "annoAcquisto": 2023
+    },
+    {
+      "id": 6,
+      "nome": "Piano Bascula Stabilometrico",
+      "categoria": "Diagnostica",
+      "descrizione": "Piattaforma di stabilometria per la valutazione dell'equilibrio e del controllo posturale in stazione eretta. Software di analisi con comparazione pre/post trattamento.",
+      "indicazioni": ["Disturbi dell'equilibrio", "Riabilitazione neurologica", "Posturologia", "Sport"],
+      "certificazioni": ["CE Medico Classe I"],
+      "annoAcquisto": 2023
+    },
+    {
+      "id": 7,
+      "nome": "Laserterapia Hilterapia Hispec 30",
+      "categoria": "Fotonica",
+      "descrizione": "Laser ad alta intensità (HILT) 1064nm Nd:YAG. Penetrazione profonda nei tessuti per biostimolazione cellulare, effetto antinfiammatorio e analgesico rapido.",
+      "indicazioni": ["Tendinopatie croniche", "Artrosi avanzata", "Ernia discale", "Dolore neuropatico"],
+      "certificazioni": ["CE Medico Classe IV", "ISO 13485"],
+      "annoAcquisto": 2022
+    },
+    {
+      "id": 8,
+      "nome": "Lettino elettrico Lojer Manuthera 242",
+      "categoria": "Attrezzatura",
+      "descrizione": "Lettino da trattamento elettrico con 3 sezioni regolabili per trazione cervicale e lombare. Regolazione fine per terapia McKenzie e tecniche di trazione. Portata 300kg.",
+      "indicazioni": ["Trazione lombare", "Trazione cervicale", "McKenzie", "Terapia manuale avanzata"],
+      "certificazioni": ["CE Medico Classe I", "TÜV"],
+      "annoAcquisto": 2021
+    }
+  ]
+}
