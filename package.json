@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-fisioterapista",
+  "name": "demo-fisioterapista",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Studio Fisioterapista — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://fisioterapista.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-fisioterapista.git"
+    "url": "https://github.com/fedcal/demo-fisioterapista.git"
   },
   "scripts": {
     "ng": "ng",

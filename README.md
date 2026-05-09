@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Studio Fisioterapista** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://fisioterapista.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-fisioterapista/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-fisioterapista/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-fisioterapista.git
-cd federico-demo-fisioterapista
+git clone https://github.com/fedcal/demo-fisioterapista.git
+cd demo-fisioterapista
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:fisioterapista
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-fisioterapista/
+→ https://fedcal.github.io/demo-fisioterapista/
 
 ## Hub demos Federico
 
